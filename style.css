@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+h2{
+    color: white;
+    text-shadow: 2px 2px blue ;
+}
+h1{
+    display: inline-block;
+    width: 20%;
+    justify-content: space-evenly;
+    color: blue;
+    text-align: center;
+    text-shadow: 2px 2px red;
+    border: 1px inset rgb(128, 122, 122);
+    box-shadow: 20px 20px 50px grey;
+    
+}
+button{
+    width: 50px;
+    margin: 0;
+    margin:40px;
+    text-shadow: 0.5px 0.5px blue;
+    }
+
